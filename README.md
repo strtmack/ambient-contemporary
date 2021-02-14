@@ -1,4 +1,4 @@
-# Dream World, Driftwood
+# dream world // driftwood
 
 An internet music library of experimental/digital/ambient/generative sounds.
 
