@@ -31,7 +31,7 @@ const Content = () => {
     <div className="content">
       {/* <img src={penrose} alt="logo" className="logo" /> */}
       <div className="playlist-title">
-        <h3>dream world, driftwood</h3>
+        <h3>ambient contemporary</h3>
         <p>
           meditative // generative // ambient // lo-fi // internet music library
         </p>
