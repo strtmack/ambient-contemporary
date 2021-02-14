@@ -1,0 +1,74 @@
+.sidebar {
+  flex: 0.2;
+  background-color: var(--neu-gray);
+  color: var(--dark-lava);
+  /* min-width: 220px; */
+  /* width: 220px; */
+  padding-top: 20px;
+  /* padding-right: 20px; */
+  height: 100vh;
+  /* position: sticky; */
+  /* top: 0; */
+  /* left: 0; */
+}
+
+.sidebar img {
+  width: 30%;
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+.playlist-list {
+  margin-top: 5rem;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+li {
+  text-transform: capitalize;
+  padding-left: 25px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+li.active {
+  border-left: 10px solid var(--vivid-tangerine);
+  padding-left: 15px;
+}
+
+.new-playlist {
+  position: absolute;
+  bottom: 0;
+}
+
+.form-title {
+  margin-bottom: 20px;
+}
+
+.form-content button {
+  border: none;
+  padding: 5px 10px;
+  border-radius: 50px;
+  background: #f2f2f2;
+  box-shadow: 10px 10px 30px #cecece, -10px -10px 30px #ffffff;
+}
+
+.form-content input {
+  margin-bottom: 20px;
+  height: 30px;
+  width: 100%;
+  padding-left: 8px;
+  font-size: 1rem;
+}
+
+.form-content {
+  margin: 8px auto;
+  max-width: 250px;
+  text-align: center;
+}
