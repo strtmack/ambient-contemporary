@@ -1,7 +1,7 @@
 {
-  "name": "dreamworld-driftwood",
+  "name": "ambient-contemporary",
   "version": "0.1.0",
-  "homepage": "https://strtmack.github.io/dreamworld",
+  "homepage": "https://strtmack.github.io/ambient-contemporary",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",

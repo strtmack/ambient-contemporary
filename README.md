@@ -1,10 +1,13 @@
-# dream world // driftwood
+# ambient contemporary
 
 An internet music library of experimental/digital/ambient/generative sounds.
 
 ## Details
 
-This project was bootstrapped with Create React App. Database functionality via Easybase. Framer Motion and some simple HTML canvas animation for UI touches.
+- Bootstrapped with Create React App
+- Database functionality via Easybase
+- Framer Motion for page load transitions
+- Custom HTML canvas animation
 
 ## Contact
 
