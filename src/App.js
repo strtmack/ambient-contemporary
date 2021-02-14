@@ -8,6 +8,7 @@ import ebconfig from "./ebconfig";
 import AudioPlayer from "react-h5-audio-player";
 import "react-h5-audio-player/src/styles.scss";
 import { motion } from "framer-motion";
+import media from "./media.json";
 
 export const StoreContext = createContext(null);
 
