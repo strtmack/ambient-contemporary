@@ -4,7 +4,7 @@ An internet music library of experimental/digital/ambient/generative sounds.
 
 ## Details
 
-A simple web app, bootstrapped with Create React App. Database functionality via Easybase. Framer Motion and some simple HTML canvas animation for UI touches.
+This project was bootstrapped with Create React App. Database functionality via Easybase. Framer Motion and some simple HTML canvas animation for UI touches.
 
 ## Contact
 
